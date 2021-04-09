@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Gary
+- 🌱 I’m currently learning Ember.js
