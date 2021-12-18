@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Gary
-- 🌱 I’m currently learning Ember.js
+- 🌱 I’m currently learning Rails
